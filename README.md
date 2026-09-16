@@ -1,58 +1,104 @@
-﻿<h1 align="center">Hi 👋, I'm Ayush Rastogi</h1>
-<h3 align="center">A passionate Full-Stack Developer & AI Enthusiast from India</h3>
+﻿<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ayush%20Rastogi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Master%20of%20Computer%20Applications%20%7C%20Software%20Engineer&descAlignY=51&descAlign=62" width="100%" />
+</div>
+
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <a href="https://github.com/rastogiayush9672-oss">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=MCA+Graduate;Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Always+learning+new+technologies" alt="Typing SVG" />
-  </a>
+  I am an aspiring Software Engineer currently pursuing my <b>Master of Computer Applications (MCA)</b>. I have a deep passion for designing scalable backend systems, exploring cutting-edge <b>Artificial Intelligence & Machine Learning</b>, and crafting seamless Full-Stack Web Applications. I thrive on solving complex logic problems and turning them into polished, user-centric software.
 </p>
 
 <p align="center">
   <a href="https://github.com/rastogiayush9672-oss">
-    <img src="https://github-readme-stats.vercel.app/api?username=rastogiayush9672-oss&show_icons=true&theme=radical&hide_border=true" alt="Ayush's GitHub stats" />
-  </a>
-  <a href="https://github.com/rastogiayush9672-oss">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rastogiayush9672-oss&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Building+Next-Gen+AI+Applications;Full-Stack+MERN+%26+Spring+Boot;Passionate+about+Clean+Architecture;Always+Learning+%26+Innovating" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+<h2 align="center">🛠️ Technical Arsenal</h2>
 
-- 🎓 **Education:** Pursuing Master of Computer Applications (MCA)
-- 💻 **Focus Areas:** Full-Stack Web Development, Machine Learning, and API Integration
-- 🛠️ **Latest Project:** Built an **AI-Powered Stock Market Predictor** using Random Forest and Google Gemini AI
-- 🌱 **Currently learning:** Advanced AI integrations, Cloud Deployments, and System Architecture
-- ⚡ **Fun fact:** I love bringing heavy logic to simple, clean user interfaces!
+<div align="center">
+  <h3>💻 Languages & Core</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </p>
 
-### 💻 Tech Stack
+  <h3>🌐 Frameworks & Libraries</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  </p>
 
-**Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-**Frameworks & Tools:**
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Databases:**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  <h3>🗄️ Databases & Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
+</div>
 
 ---
 
-### 🔥 Featured Projects
+<h2 align="center">🏆 Core Projects</h2>
 
-* 📈 **[AI Stock Predictor](https://github.com/rastogiayush9672-oss/AI-Stock-Predictor)** - A machine-learning powered stock analyzer with a live Gemini AI Chatbot.
-* 💰 **Money Manager** - A full-stack MERN expense tracking application.
-* 📰 **Fake News Detector** - A Java Spring Boot application to detect misinformation.
-* 🎓 **Online Examination System** - A robust PHP-based platform for conducting online tests.
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/rastogiayush9672-oss/AI-Stock-Predictor">AI Stock Predictor</a></h3>
+      <p>A machine learning-driven web application that predicts stock market trends using <b>Random Forest</b> and integrates a live <b>Google Gemini AI Chatbot</b> for expert financial advice.</p>
+      <i>Python, Streamlit, Scikit-Learn, Pandas, APIs</i>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💸 <a href="https://github.com/rastogiayush9672-oss/MoneyManager-">Money Manager</a></h3>
+      <p>A comprehensive expense tracking and financial planning dashboard built with modern web technologies, providing interactive charts and analytics.</p>
+      <i>MongoDB, Express.js, React, Node.js (MERN)</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📰 Fake News Detector</h3>
+      <p>A robust backend application designed to detect misinformation and classify news articles using advanced natural language algorithms.</p>
+      <i>Java, Spring Boot, NLP Concepts</i>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/rastogiayush9672-oss/Online-Examination-System">Online Examination System</a></h3>
+      <p>A secure platform for institutions to conduct online tests, featuring automated grading, timed assessments, and student dashboards.</p>
+      <i>PHP, MySQL, HTML/CSS, JavaScript</i>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rastogiayush9672-oss&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <a href="https://github.com/rastogiayush9672-oss">
+    <img src="https://github-readme-stats.vercel.app/api?username=rastogiayush9672-oss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ayush's GitHub stats" height="195"/>
+  </a>
+  <a href="https://github.com/rastogiayush9672-oss">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rastogiayush9672-oss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/rastogiayush9672-oss">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rastogiayush9672-oss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
