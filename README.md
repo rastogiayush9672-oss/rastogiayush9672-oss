@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ayush%20Rastogi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Master%20of%20Computer%20Applications%20%7C%20Software%20Engineer&descAlignY=51&descAlign=62" width="100%" />
 </div>
 
@@ -51,32 +51,23 @@
 
 <h2 align="center">🏆 Core Projects</h2>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/rastogiayush9672-oss/AI-Stock-Predictor">AI Stock Predictor</a></h3>
-      <p>A machine learning-driven web application that predicts stock market trends using <b>Random Forest</b> and integrates a live <b>Google Gemini AI Chatbot</b> for expert financial advice.</p>
-      <i>Python, Streamlit, Scikit-Learn, Pandas, APIs</i>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💸 <a href="https://github.com/rastogiayush9672-oss/MoneyManager-">Money Manager</a></h3>
-      <p>A comprehensive expense tracking and financial planning dashboard built with modern web technologies, providing interactive charts and analytics.</p>
-      <i>MongoDB, Express.js, React, Node.js (MERN)</i>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📰 Fake News Detector</h3>
-      <p>A robust backend application designed to detect misinformation and classify news articles using advanced natural language algorithms.</p>
-      <i>Java, Spring Boot, NLP Concepts</i>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/rastogiayush9672-oss/Online-Examination-System">Online Examination System</a></h3>
-      <p>A secure platform for institutions to conduct online tests, featuring automated grading, timed assessments, and student dashboards.</p>
-      <i>PHP, MySQL, HTML/CSS, JavaScript</i>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/rastogiayush9672-oss/AI-Stock-Predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rastogiayush9672-oss&repo=AI-Stock-Predictor&theme=tokyonight&hide_border=true" width="400" alt="AI Stock Predictor"/>
+  </a>
+  <a href="https://github.com/rastogiayush9672-oss/MoneyManager-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rastogiayush9672-oss&repo=MoneyManager-&theme=tokyonight&hide_border=true" width="400" alt="Money Manager"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/rastogiayush9672-oss/Online-Examination-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rastogiayush9672-oss&repo=Online-Examination-System&theme=tokyonight&hide_border=true" width="400" alt="Online Examination System"/>
+  </a>
+  <a href="https://github.com/rastogiayush9672-oss/cpp-programs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rastogiayush9672-oss&repo=cpp-programs&theme=tokyonight&hide_border=true" width="400" alt="C++ Programs"/>
+  </a>
+</div>
 
 ---
 
